@@ -25,12 +25,12 @@ Official brand assets for FundMind Token on Polygon network.
 
 **Main Logo (256x256):**
 ```
-https://raw.githubusercontent.com/alexandersukhovv-hub/fmnd-token-assets/main/logo.png
+https://raw.githubusercontent.com/alexandersukhovvv-hub/fmnd-token-assets/main/logo.png
 ```
 
 **Token List JSON:**
 ```
-https://raw.githubusercontent.com/alexandersukhovv-hub/fmnd-token-assets/main/fmnd.tokenlist.json
+https://raw.githubusercontent.com/alexandersukhovvv-hub/fmnd-token-assets/main/fmnd.tokenlist.json
 ```
 
 ## 💼 Token Utility
@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/alexandersukhovv-hub/fmnd-token-assets/main/fm
 ### Using Token List
 Import our token list URL in MetaMask for automatic logo display:
 ```
-https://raw.githubusercontent.com/alexandersukhovv-hub/fmnd-token-assets/main/fmnd.tokenlist.json
+https://raw.githubusercontent.com/alexandersukhovvv-hub/fmnd-token-assets/main/fmnd.tokenlist.json
 ```
 
 ## 📄 Documentation
