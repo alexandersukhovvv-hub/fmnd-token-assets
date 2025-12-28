@@ -192,7 +192,7 @@ Month 48: 100% unlocked
 
 ## 📞 Contact & Resources
 
-- **Website:** https://fundmind.app
+- **Website:** https://fundmindinfo.ru
 - **Whitepaper:** [Download PDF]
 - **Audit Report:** [Coming Soon]
 - **Team:** [About Us]

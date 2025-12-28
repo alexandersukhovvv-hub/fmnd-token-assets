@@ -83,10 +83,8 @@ https://raw.githubusercontent.com/alexandersukhovvv-hub/fmnd-token-assets/main/f
 
 ## 🌐 Official Links
 
-- **Website:** https://fundmind.app
-- **Twitter:** [@FundMindToken](https://twitter.com/fundmind)
+- **Website:** https://fundmindinfo.ru
 - **Telegram:** [t.me/fundmind](https://t.me/fundmind)
-- **Discord:** [Join Server](https://discord.gg/fundmind)
 
 ## 📜 License
 
